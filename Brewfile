@@ -251,7 +251,7 @@ cask 'bitwarden'
 #brew 'most'
 
 # Vim editor
-brew 'vim', args: ['--with-override-system-vi']
+#brew 'vim'
 
 # MacVIM editor
 #cask 'macvim'
@@ -294,13 +294,13 @@ brew 'vim', args: ['--with-override-system-vi']
 #brew 'carthage'
 
 # curl is a command line tool for transferring data with URL syntax.
-brew 'curl', link: true
+#brew 'curl', link: true
 
 # HTTrack is a free and easy-to-use offline browser utility.
 #brew 'httrack'
 
 # Wget is a free software package for retrieving files using HTTP and FTP.
-brew 'wget'
+#brew 'wget'
 
 ##
 # Version control

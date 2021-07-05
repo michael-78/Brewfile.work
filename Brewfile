@@ -1364,7 +1364,7 @@ cask 'postman'
 ## Go
 
 # Go programming language by Google; compare `C`.
-brew 'go'
+#brew 'go'
 
 ## Haskell
 

@@ -145,7 +145,7 @@ cask 'google-chrome'
 #cask 'chromium'
 
 # Microsoft Edge web browser
-cask 'microsoft-auto-update'
+#cask 'microsoft-auto-update'
 cask 'microsoft-edge'
 
 # Lynx terminal web browser

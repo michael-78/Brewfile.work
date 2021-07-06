@@ -169,7 +169,7 @@ cask 'microsoft-edge'
 cask 'iterm2'
 
 # Tmux is a newer terminal multiplexer.
-brew 'pkg-config' , link: true
+brew 'pkg-config' , link: ['true']
 brew 'tmux'
 
 # tmate is a fork of tmux that makes screen sharing friendlier.

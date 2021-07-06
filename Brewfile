@@ -103,7 +103,7 @@
 ##
 
 # Applications
-cask_args appdir: '/Applications'
+#cask_args appdir: '/Applications'
 
 # Tap homebrew
 tap 'homebrew/cask'

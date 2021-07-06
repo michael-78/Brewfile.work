@@ -169,7 +169,6 @@ cask 'microsoft-edge'
 cask 'iterm2'
 
 # Tmux is a newer terminal multiplexer.
-brew 'pkg-config' #, link: true
 brew 'tmux'
 
 # tmate is a fork of tmux that makes screen sharing friendlier.
@@ -428,9 +427,6 @@ brew 'gnupg'
 
 # OpenSSL is an open-source implementation of the SSL and TLS protocols.
 brew 'openssl'
-
-# pkg-config is a helper tool used when compiling applications and libraries.
-#brew 'pkg-config', link: true
 
 # Functions for use by applications that allow users to edit command lines while typing.
 #brew 'readline'
@@ -3588,7 +3584,6 @@ cask 'visual-studio-code'
 # brew 'pit'
 # brew 'pixie'
 # brew 'pixman'
-# brew 'pkg-config'
 # brew 'play'
 # brew 'playdar'
 # brew 'plink'
